@@ -1,0 +1,67 @@
+.h12 {
+    font-size: 70px;
+    width: 50%;
+    font-family: 'Mr Dafoe', cursive;
+    background-color: crimson;
+    color: white;
+    border-radius: 100px;
+}
+
+.heading {
+    background-color: darkblue;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.info {
+    background-color: yellow;
+    color: black;
+    width: 30%;
+    border-radius: 10px;
+    font-size: 40px;
+    font-family: 'Nerko One', cursive;
+    box-shadow: 5px 5px 5px white;
+}
+
+.big_img {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.start {
+    background-color: yellow;
+    color: black;
+    width: 30%;
+    border-radius: 10px;
+    font-size: 40px;
+    font-family: 'Nerko One', cursive;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 20px;
+}
+
+.status {
+    font-size: 40px;
+    width: 50%;
+    font-family: 'Mr Dafoe', cursive;
+    background-color: crimson;
+    color: white;
+    font-family: 'Zen Loop', cursive;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instr {
+    width: 60%;
+}
+
+.footer {
+    width: 100%;
+    background-color: wheat;
+    color: black;
+    font-size: 30px;
+    line-height: 2;
+    bottom: 0;
+}
